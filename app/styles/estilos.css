@@ -82,3 +82,12 @@ footer {
     margin-top: auto;
 }
 
+.ok {
+    color: green;
+    font-size: 20px;
+}
+
+.bad {
+    color: red;
+    font-size: 20px;
+}
